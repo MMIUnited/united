@@ -1,0 +1,8 @@
+PERKENALAN
+==========
+
+Judul Project 	: MNews ( WEB Portal Berita )
+Nama Organisasi	: MMIUnited
+Nama Master	: Khairul Anwar Tanjung
+Nama Member	: - Ferry Syahputra
+		  - Syamsul Bahri Hutabarat
