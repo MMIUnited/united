@@ -1,0 +1,475 @@
+
+
+body {
+	background: #EDFFED;
+	margin: 0px auto;
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.container{
+	background:rgba(139,191,144,0.3);
+}
+
+.navbar input {
+	padding: 3px 5px 3px 5px;
+	margin-top: 8px;
+	margin-left: 30px;
+	background: #F9FFF9;
+}
+
+.navbar ul li, .navbar-header {
+	font-variant: small-caps;
+	font-size: 16px;
+}
+
+.date {
+	color: #FFF;
+	float: right;
+	line-height: 48px;
+}
+
+.logo {
+	float: left;
+	margin-bottom: 10px;
+}
+
+.logo img {
+	border: 1px solid #555;
+	box-shadow: 1px 1px 1px #555;
+}
+
+.iklan {
+	float: left;
+	height: 78px;
+	width: 700px;
+	border: 1px solid #afafaf;
+	background: #EDFFED;
+	margin-left: 15px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 75px;
+	6dc3WN8Nk3
+}
+.glyphicon .glyphicon-remove {
+	float: left:
+}
+button {
+	float: right;
+}
+
+.modal-content {
+	border: 1px solid #999;
+	box-shadow: 1px 1px 1px #555;
+}
+
+.modal-content p {
+	margin-left: 10px;
+	color: #A9E2F3;
+}
+
+.modal-content p  a{
+	color: #A9E2F3;
+}
+
+.btn-primary.active,.btn-primary.focus,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open>.dropdown-toggle.btn-primary:hover {
+	background-color: #376644;
+}
+
+.kotak_berita {
+	width: 745px;
+	height: 450px;
+	background: #EDFFED;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: left;
+	border: 1px solid #555;
+	box-shadow: 1px 1px 1px #555;
+}
+
+.kotak_kanan {
+	float: right;
+	background: #EDFFED;
+}
+.kotak_berita1 {
+	width: 335px;
+	float: left;
+}
+
+.kotak_berita1 ul {
+	margin: 20px 0px 0px -40px;
+	list-style: none;
+}
+.kotak_berita1 li {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	width: 146px;
+	height: 135px;
+	background: #DBFFDB;
+	border: 1px solid #afafaf;
+}
+.kolom_terkini li a, .kolom_populer li a {
+	color: #333;
+	font-size: 14px;
+}
+.kotak_berita1 li a {
+	font-size: 12px;
+	color:#000;
+}
+.kotak_berita1 li img {
+	width: 144px;
+	height: 74px;
+	border-bottom: 1px solid #999;s
+}
+.kotak_berita1 li p {
+	margin: 3px 5px 3px 5px;
+}
+
+.kotak_list ul {
+	margin: 20px 0px 0px -40px;
+	list-style: none;
+}
+.kotak_list li {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	width: 365px;
+	height: 270px;
+	background: #EDFFED;
+	border: 1px solid #afafaf;
+	font-size: px;
+	line-height: 10px;
+}
+.kotak_list li p {
+	font-size: 18px;
+	color: #333;
+	line-height: 25px;
+}
+.kotak_list li  img{
+	width: 363px;
+	height: 200px;
+	margin-bottom:10px;
+	border-bottom: 1px solid #999;
+}
+.kotak_list li  p{
+	margin-left: 5px;
+}
+
+.kotak_kanan p a:hover, .kolom_terkini p a:hover, .kolom_populer p a:hover, .kotak_list li a:hover {
+	color: #106610;
+}
+
+.kotak_gbr_berita {
+	width: 750px;
+	float: left;
+	clear: both;
+	margin: 0px 0px 10px;
+}
+
+.header_kotak_berita {
+	clear: both;
+	width: 743px;
+	height: 25px;
+	background: linear-gradient(to top, #072102, #1C8308);
+	font-size: 18px;
+	border-bottom: 1px solid #555;
+	font-weight: bold;
+}
+
+.header_kotak_berita1 {
+	width: 315px;
+	height: 25px;
+	border-bottom: 2px solid green;
+	margin: 0px 10px 0px 10px;
+}
+.header_kotak_berita1 h4 {
+	font-weight: bold;
+	line-height: 15px;
+}
+
+.teks_judul {
+	margin-left: 5px;
+}
+
+.kotak_berita  a:focus ,.kotak_berita  a:hover {
+	color: #000;
+}
+.kotak_berita  a {
+	color: #333;
+}
+.header_kotak_berita a {
+	text-decoration: none;
+	color: #FFF;
+}
+.header_kotak_berita  a:hover, .header_kotak_berita1  a:hover {
+	color: #BFEBFF;
+}
+
+.gbr_besar {
+	width: 730px;
+	height: 370px;
+	float: left;
+	border: 1px solid #555;
+	box-shadow: 1px 1px 1px #555;
+	margin: 10px 5px 5px 5px;
+}
+
+.konten {
+	margin-bottom: 50px;
+}
+.konten .judul_artikel {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.konten img {
+	margin-bottom: 20px;
+	width: 750px;
+	height: 390px;
+}
+.konten p {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+.kolom_terkini {
+	clear: both;
+	float: left;
+	width: 400px;
+	margin-right: 20px;
+	border-right: 1px solid #afafaf;
+	background: #EDFFED;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.kolom_terkini ul {
+	list-style: none;
+	margin-left: -40px;
+}
+.kolom_terkini ul li {
+	width: 380px;
+	height: 90px;
+	border-bottom: 1px solid #afafaf;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.kolom_terkini li img {
+	float: left;
+	margin-right: 10px;
+	width: 140px;
+	height: 70px;
+	border: 1px solid #999;
+}
+.kolom_terkini ul li p {
+	float: left;
+}
+.kolom_populer {
+	float: left;
+	width: 325px;
+	border-right: 1px solid #afafaf;
+}
+.kolom_populer ul {
+	margin-left: -40px;
+	list-style: none;
+}
+.kolom_populer ul li {
+	width: 315px;
+	border-bottom: 1px solid #afafaf;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.header_kolom_populer {
+	width: 315px;
+	height: 25px;
+	border-bottom: 2px solid green;
+	margin: 0px 20px 0px 0px;
+}
+.header_kolom_terkini {
+	width: 380px;
+	height: 25px;
+	border-bottom: 2px solid green;
+	margin: 0px 20px 0px 0px;
+}
+.header_kolom_terkini a, .header_kolom_populer a, .header_kotak_berita1 a, .header_kotak_berita1 a{
+	color: #000;
+	text-decoration: none;
+}
+.header_kolom_terkini a:hover, .header_kolom_populer a:hover, .header_kotak_berita1 a:hover, .header_kotak_berita1 a:hover{
+	color: #116E12;
+}
+.motto {
+	color: #f00;
+}
+.icon_surat {
+	background: url("img/white_icon_set.png") -62px -34px no-repeat;
+	height: 15px;
+	width: 15px;
+}
+video {
+	width: 305px;
+	height: 250px;
+}
+.footer {
+	clear: both;
+	width: 100%;
+	background: #033407;
+	color: #eee;
+	text-align: center;
+	border-radius: 3px;
+	box-shadow: 1px 1px 1px #555;
+	margin-top: 20px;
+}
+.footer h2 {
+	font-variant: small-caps;
+}
+.footer h2 a{
+	text-decoration: none;
+}
+.footer p {
+	margin-bottom: 0;
+}
+
+/************************************************************************************
+MEDIA QUERIES
+*************************************************************************************/
+/* untuk ukuran 1080px kebawah */
+@media screen and (max-width: 1080px) {
+	
+	.container {
+		width: 100%;
+	}
+	
+	.logo, .iklan , .kolom_populer {
+		display: none;
+	}
+	.footer {
+		width: auto;
+	}
+	.kotak_gbr_berita{
+		width: 270px;
+	}
+	
+	.btn {
+		margin: 5px;
+		margin-right: 0;
+	}
+	.navbar {
+		margin-bottom: 0;
+	}
+}
+
+
+/* untuk ukuran layar 780px kebawah */
+@media screen and (max-width: 780px) {
+	
+	.header, .footer{
+		text-align: center;
+	}
+	.footer {
+		width: auto;
+	}
+	.kotak_gbr_berita{
+		width: 270px;
+	}
+	.iklan_atas , .iklan_kiri, .iklan_kanan{
+		display: none;
+	}
+	.logo {
+		display: none;
+	}
+	.kotak_berita, .kolom_terkini  {
+		width: 260px;
+		margin-right: 5px;
+		margin-bottom: 5px;
+	}
+	.kolom_terkini ul li {
+		display: inline-table;
+		width: 253px;
+		height: 90px;
+		font-size: 12px;
+		margin: 0px;
+		padding: 3px;
+	}
+	.kolom_terkini ul li img, .kolom_terkini ul li p {
+		float: left;
+		display: inline-table;
+		margin: 0;
+	}
+	.kolom_terkini ul li img {
+		margin-right: 3px;
+	}
+	.kotak_berita {
+		height: 205px
+	}
+	.header_kotak_berita, .header_kolom_terkini, .header_kotak_berita1 {
+		width: 258px;
+		margin-right: 5px;
+		margin-bottom: 5px;
+	}
+	.gbr_besar, .gbr_besar #slideshow img{
+		width: 245px;
+		height: 125px;
+	}
+	.gbr_besar, .gbr_besar img{
+		width: 245px;
+	}
+	.kotak_kanan {
+		clear: both;
+		display: inline-table;
+		clear: both;
+		float: left;
+		width: auto;
+	}
+	.kotak_berita1 {
+		width: 300px;
+	}
+	.kotak_berita1 li a {
+		margin-left: 3px;
+		font-size:12px;
+	}
+	.kotak_berita1 li p {
+	margin: -20px 5px 3px 5px;
+}
+	.kotak_berita1 li {
+		height: 107px;
+		margin: 0px 3px 3px 0px;
+	}
+	.kotak_list li {
+		width: 258px;
+		height: 220px;
+		font-size: normal;
+	}
+	.kotak_list li p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.kotak_list li img {
+		width: 256px;
+		height: 170px;
+		margin-bottom: 5px;
+	}
+	.konten p {
+		font-size: 12px;
+	}
+	.konten img {
+		width: 258px;
+		height: auto;
+	}
+	.konten .judul_artikel {
+		font-size: 15px;
+		font-weight: bold;
+	}
+	p .bjqs-caption {
+		font-size: 12px;
+	}
+	.footer {
+		width: auto;
+	}
+	.footer h2 a {
+		text-decoration: none;
+	}
+	.footer h2 a:hover {
+		color: #106610;
+	}
+}
